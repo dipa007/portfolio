@@ -842,3 +842,8 @@ footer span a:hover{
     background-color: #808080;
     text-align: center;
 }
+#msg{
+    color:#61b752;
+    margin-top: 50px;
+    display: block;
+}
